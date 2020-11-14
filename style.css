@@ -29,6 +29,8 @@ figcaption {
 }
 
 #details div {
+  margin: auto;
+  width: 25%;
   background-color: yellow;
   text-align: center;
   display: block;
