@@ -13,6 +13,7 @@ section {
   }
 
 nav > a {
+  background-color: yellow;
   padding-left: 10px;
   padding-right: 10px;
   
