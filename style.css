@@ -13,9 +13,10 @@ section {
   }
 
 nav > a {
+  background-color: yellow;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: yellow;
+  
 }
 
 figcaption {
@@ -25,8 +26,13 @@ figcaption {
 
 #featured-property p {
   width: 800px;
-  text-align: center;
+  margin: auto;
 }
 
-  
+#details div {
+  margin: auto;
+  width: 25%;
+  background-color: yellow;
+  float: left;
+}
   
