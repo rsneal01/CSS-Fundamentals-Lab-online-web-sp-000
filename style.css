@@ -15,7 +15,7 @@ section {
 nav > a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: yellow;
+  
 }
 
 figcaption {
@@ -29,7 +29,7 @@ figcaption {
 }
 
 #details div {
-  
+  background-color: yellow;
   display: block;
   float: left;
 }
