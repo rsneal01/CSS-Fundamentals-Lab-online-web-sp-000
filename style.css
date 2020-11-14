@@ -29,6 +29,7 @@ figcaption {
 }
 
 #details div {
+  background-color: yellow;
   display: block;
   float: left;
 }
